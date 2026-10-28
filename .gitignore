@@ -1,0 +1,12 @@
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+
+# Modul sementara atau file log
+*.log
+*.tmp
+
+# VS Code & OS files
+.vscode/
+Thumbs.db
+desktop.ini
